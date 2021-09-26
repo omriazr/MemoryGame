@@ -1,0 +1,7 @@
+C:\Users\Omri\Desktop\לגיט\B20 Ex05 OmriAzaria 313586190 SanyBrhano 323385971\B20_Ex02\bin\Debug\B20_Ex02.dll.config
+C:\Users\Omri\Desktop\לגיט\B20 Ex05 OmriAzaria 313586190 SanyBrhano 323385971\B20_Ex02\bin\Debug\B20_Ex02.dll
+C:\Users\Omri\Desktop\לגיט\B20 Ex05 OmriAzaria 313586190 SanyBrhano 323385971\B20_Ex02\bin\Debug\B20_Ex02.pdb
+C:\Users\Omri\Desktop\לגיט\B20 Ex05 OmriAzaria 313586190 SanyBrhano 323385971\B20_Ex02\obj\Debug\B20_Ex02.csprojAssemblyReference.cache
+C:\Users\Omri\Desktop\לגיט\B20 Ex05 OmriAzaria 313586190 SanyBrhano 323385971\B20_Ex02\obj\Debug\B20_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\Omri\Desktop\לגיט\B20 Ex05 OmriAzaria 313586190 SanyBrhano 323385971\B20_Ex02\obj\Debug\B20_Ex02.dll
+C:\Users\Omri\Desktop\לגיט\B20 Ex05 OmriAzaria 313586190 SanyBrhano 323385971\B20_Ex02\obj\Debug\B20_Ex02.pdb
