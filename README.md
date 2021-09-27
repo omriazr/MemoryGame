@@ -1,6 +1,7 @@
 # MemoryGame
 
-"Memory Game" for Windows Desktop with GUI.
+## "Memory Game" for Windows Desktop with GUI.
+
 The first form will enable the user to configure the board and the player names and types:
 
 * Clicking the "Against a Friend" button will toggle the m_TextBoxFriend.Enabled from false to true and back, and the text in the textbox to empty or "– computer –". The button's text will be toggled between "Against a friend" and "Against Computer".
